@@ -28,7 +28,7 @@
 
 ## 验证范围
 
-这是启动、分发、档案隔离和既有行为的检查，不是新增的长线无尽平衡、低配置性能或完整 Web 通关证明。历史浏览器覆盖与限制继续见 [BUILD_REPORT](BUILD_REPORT.md)。没有声称远程 GitHub Actions 已执行。
+这是启动、分发、档案隔离和既有行为的检查，不是新增的长线无尽平衡、低配置性能或完整 Web 通关证明。历史浏览器覆盖与限制继续见 [BUILD_REPORT](BUILD_REPORT.md)。2026-09-10，发布提交的 [GitHub Actions](https://github.com/zhangduyou2-cmyk/scrapstorm-night-shift/actions/runs/34446206596) 已实际运行并通过。
 
 ## 2026-09-10 发布补充
 

@@ -1,6 +1,6 @@
 # v0.5.1 · Counter, recharge, burst
 
-**发布状态：本地候选包已生成，首次公开发布准备中。** 当前没有已发布的 GitHub Release、下载链接或在线试玩。本页描述已实现变化与实际候选包，不表示已上传。
+**发布状态：2026-09-10 已公开发布 Windows 试玩版。** [Release 与下载](https://github.com/zhangduyou2-cmyk/scrapstorm-night-shift/releases/tag/v0.5.1)。完整解压后双击 Play.cmd；暂未发布在线 Web 试玩。历史候选包数据保留如下，当前附件以 Release 的 SHA256SUMS.txt 为准。
 
 [English overview](../README.md) · [完整中文说明](README.zh-CN.md) · [完整构建证据](BUILD_REPORT.md) · [版本历史](../CHANGELOG.md)
 
@@ -49,4 +49,4 @@ OVERTIME 无尽、三图 NIGHT SHIFT、三分钟 QUICK SWEEP、八工具六进�
 
 创作者 **zhangduyou2-cmyk** 提供创意、范围决策、试玩反馈和最终批准；Codex 主导代码、集成，并协助设计、原创程序素材、验证和文档。项目源码、文档及原创资产在创作者有权授权的范围内采用 [MIT 许可](../LICENSE)。字体、引擎和其他组件继续保留各自条款，见[第三方声明](../THIRD_PARTY_NOTICES.md)。
 
-English release summary: v0.5.1 improves sustained boss damage, finite resource recovery and six-second counter openings. This is a locally prepared candidate, not a published release. Windows launch and 1,390 local checks passed; the final Web runs did not reach the shop/checkpoint flow. See the English README for controls, source builds, save behavior and AI-assisted authorship.
+English release summary: v0.5.1 improves sustained boss damage, finite resource recovery and six-second counter openings. The Windows playtest is now publicly available in the linked GitHub Release. Windows launch and 1,390 local checks passed; the final Web runs did not reach the shop/checkpoint flow. See the English README for controls, source builds, save behavior and AI-assisted authorship.

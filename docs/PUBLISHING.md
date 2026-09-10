@@ -21,3 +21,7 @@ python tools/run_tests.py --label release
 构建和打包命令见根 README 与 tools/package_windows.py。GitHub Actions 在 push/PR 执行只读检查，手动构建仅产生临时候选 artifact，不自动发布。发布后应核对实际 Actions 结果、Release 附件大小和 SHA-256，不能以本地测试替代远程成功。
 
 本次只发布 Windows 试玩与源码。Web 尚无正式托管试玩地址；发布网页前仍需完成真实 HTTPS 环境的音频、存档和完整关卡流程验证。长线平衡和低配置性能不由打包检查证明。
+
+## 首次发布结果 · 2026-09-10
+
+公开仓库与 [Windows v0.5.1 Release](https://github.com/zhangduyou2-cmyk/scrapstorm-night-shift/releases/tag/v0.5.1) 已发布。发布提交 `000e400a4c9c633a80a7c461112b13b70df5b318` 的 [远程检查](https://github.com/zhangduyou2-cmyk/scrapstorm-night-shift/actions/runs/34446206596) 通过；Windows ZIP 与校验文件上传后已核对服务端 SHA-256。此后首页只补充已验证的实际下载链接，游戏运行文件保持不变。

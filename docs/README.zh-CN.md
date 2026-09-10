@@ -8,7 +8,9 @@
 
 [English README](../README.md) · [架构](ARCHITECTURE.md) · [v0.5.1 发布说明](RELEASE_NOTES_v0.5.1.md) · [验证记录](BUILD_REPORT.md)
 
-**当前状态：** v0.5.1 已有本地 Windows 可玩包和桌面 Web 导出。正在准备首次公开仓库发布，尚无公开下载或在线试玩地址。
+**[下载 Windows v0.5.1 试玩包 · 约 63 MB](https://github.com/zhangduyou2-cmyk/scrapstorm-night-shift/releases/download/v0.5.1/Scrapstorm-Night-Shift-v0.5.1-Windows.zip)** · **[发布说明与校验文件](https://github.com/zhangduyou2-cmyk/scrapstorm-night-shift/releases/tag/v0.5.1)**
+
+**当前状态：** Windows v0.5.1 已公开发布为免费试玩版，源码及有权授权的原创素材采用 MIT。Web 可在本地构建，暂未提供托管在线试玩。
 
 | 默认机库 | 破招、补能、爆发 |
 | --- | --- |

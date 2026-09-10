@@ -6,7 +6,9 @@ A free, single-player, top-down action survival game made with **Godot 4.7.2**, 
 
 [完整中文说明](docs/README.zh-CN.md) · [Architecture](docs/ARCHITECTURE.md) · [v0.5.1 release notes](docs/RELEASE_NOTES_v0.5.1.md) · [Validation](docs/BUILD_REPORT.md)
 
-**Status:** v0.5.1 is playable locally on Windows; a desktop Web export is available to build and test. The first public repository release is being prepared. There is no published download or hosted demo link yet.
+**[Download Windows v0.5.1 — ~63 MB](https://github.com/zhangduyou2-cmyk/scrapstorm-night-shift/releases/download/v0.5.1/Scrapstorm-Night-Shift-v0.5.1-Windows.zip)** · **[Release notes and checksums](https://github.com/zhangduyou2-cmyk/scrapstorm-night-shift/releases/tag/v0.5.1)**
+
+**Status:** Windows v0.5.1 is published as a free playtest release. Source and creator-held original assets use MIT. A desktop Web export can be built locally; there is no hosted Web demo.
 
 **Windows playtest package:** extract the complete Windows ZIP and double-click `Play.cmd` (or `Scrapstorm.exe`). No development tools are needed. First-time players start with fresh progress; subsequent launches preserve their own saves. The private recording edition and the creator's saves are excluded. [Current distribution checks](docs/DISTRIBUTION_CHECK.md).
 
