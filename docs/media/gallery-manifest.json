@@ -1,0 +1,41 @@
+{
+  "failures": [],
+  "images": [
+    {
+      "provenance": "Default menu with a fresh isolated profile; no awarded progress.",
+      "file": "v051-hangar.png",
+      "source": "captures/public-gallery-v051/v051-hangar.png",
+      "sha256": "669734f9dfd0b6f92b34f9a5e18e44245e7a02b8688a1e403baa71cf1d73670f"
+    },
+    {
+      "provenance": "Staged boss, positions and pre-counter resources. Actual break behavior and six-second HUD; not earned gameplay or a playthrough.",
+      "file": "v051-counter.png",
+      "source": "captures/public-gallery-v051/v051-counter.png",
+      "sha256": "7991b68248c1f3d961a6625b9c8f55e11b6e3aa3011c85c3909a0077c058a35d"
+    },
+    {
+      "provenance": "Staged four-slot inventory, modifiers, wallet and first room clock. Actual shop offers and evolution requirements; not a purchased or earned build.",
+      "file": "v051-build.png",
+      "source": "captures/public-gallery-v051/v051-build.png",
+      "sha256": "41d84d99c6ebfe3de8f181cd97a429893d870f3fc3bed50d6a8c322e2cdf694d"
+    },
+    {
+      "provenance": "Achievement display populated by a staged successful run through the actual settlement service. Aurora is a previewed reward, not a claim of human completion.",
+      "file": "v051-achievements.png",
+      "source": "captures/public-gallery-v051/v051-achievements.png",
+      "sha256": "6176f2871c3fe8be42f0952e5eedc7a364fb72a8f9e9e437b03037b98cd5158e"
+    }
+  ],
+  "limitations": "Screenshots prove rendering only. Fixture state is disclosed per image; no playthrough, player win-rate, browser or performance claim.",
+  "post_processing": "None. PNG captures are copied byte-for-byte to docs/media.",
+  "renderer": "Godot Compatibility native",
+  "resolution": [
+    1280,
+    720
+  ],
+  "version": "0.5.1",
+  "capture_script": "tests/capture_public_gallery.gd",
+  "capture_script_sha256": "33f4df867f1f91995bcb9ae6ecdfabb8e3c26b3bf21bc7a5ce7d27fb3ee0ef0a",
+  "visually_reviewed": true,
+  "review_scope": "All four PNGs viewed at original composition; no clipping, raw translation keys, desktop paths or personal profile data observed."
+}

@@ -1,0 +1,21 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.gd text eol=lf
+*.tscn text eol=lf
+*.tres text eol=lf
+*.godot text eol=lf
+*.uid text eol=lf
+*.svg text eol=lf
+*.png binary
+*.jpg binary
+*.webp binary
+*.ogg binary
+*.wav binary
+*.mp3 binary
+*.ttf binary
+*.otf binary
+*.zip binary
+*.mp4 binary
+*.gif binary
+# Preserve the original user-supplied concept attachment byte-for-byte.
+/docs/reference/ORIGINAL_CONCEPT.md -text whitespace=cr-at-eol

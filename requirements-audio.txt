@@ -1,0 +1,7 @@
+# Optional asset-generation/measurement tools; Python 3.11+.
+# The exported game does not use Python or these packages.
+numpy==2.4.6
+scipy==1.17.1
+soundfile==0.12.1
+cffi==2.0.0
+pycparser==3.0

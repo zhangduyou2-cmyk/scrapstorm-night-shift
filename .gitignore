@@ -1,0 +1,47 @@
+# Godot generated cache; retain source .uid files and export_presets.cfg.
+.godot/
+.import/
+export.cfg
+export_credentials.cfg
+
+# Local builds and captures.
+/build/
+/builds/
+/exports/
+/artifacts/
+/captures/
+/.tools/
+/.playwright/
+__pycache__/
+node_modules/
+.venv/
+.pytest_cache/
+.mypy_cache/
+/docs/*.import
+/docs/*.translation
+
+# Local environment reports and credentials.
+/.preproduction-local/
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+
+# Actual Godot user data, including fallback/transactional copies.
+profile.json
+profile.json.*
+settings.cfg
+settings-test-*.cfg
+
+# Editor and OS files.
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+*.tmp
+*.TMP
+*.log

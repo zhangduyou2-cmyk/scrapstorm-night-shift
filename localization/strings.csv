@@ -1,0 +1,532 @@
+key,en,zh_CN
+REPAIR_HINT,Every 25 scrap recovered restores 8 hull.,每累计回收25个零件恢复8点耐久。
+APP_TITLE,SCRAPSTORM: NIGHT SHIFT,SCRAPSTORM: NIGHT SHIFT
+START_SHIFT,START YOUR SHIFT,开始夜班
+SETTINGS,SETTINGS,设置
+LANGUAGE,LANGUAGE,语言
+MASTER_VOLUME,MASTER VOLUME,主音量
+VISUAL_EFFECTS,VISUAL EFFECTS,视觉特效
+BACK,BACK,返回
+RESUME,RESUME SHIFT,继续夜班
+RESTART,RESTART SHIFT,重新开始
+MAIN_MENU,RETURN TO HANGAR,返回机库
+PAUSED,SHIFT PAUSED,夜班暂停
+LANG_ENGLISH,English,English
+LANG_CHINESE,简体中文,简体中文
+EYEBROW,NIGHT OPERATIONS / SECTOR 07,夜间作业 / 第07区
+SUBTITLE,NIGHT SHIFT,午夜清扫队
+INTRO,Built from scrap. Made for mayhem.,废料重铸，火力全开。
+PROTOTYPE,NEON HANGAR / 0.4,霓虹机库 / 0.4
+UNIT_NAME,SWEEP UNIT 01,清扫单元 01
+UNIT_DESC,Reclamation division,回收作业分部
+OBJECTIVE,SURVIVE THE SHIFT,坚持到夜班结束
+OBJECTIVE_DESC,Three sectors. Three bosses. Make this shift your own.,三个区域，三位首领。打造属于你的夜班。
+LOOP_BREAK,BREAK,打碎
+LOOP_RECLAIM,RECLAIM,回收
+LOOP_BLAST,DISCHARGE,喷射
+TIP_MOVE,WASD  Move,WASD  移动
+TIP_VACUUM,Hold RMB  Vacuum,按住鼠标右键  吸附
+TIP_BLAST,Release RMB  Discharge,松开鼠标右键  喷射
+TIP_DASH,SPACE  Dash,空格  冲刺
+TIP_PAUSE,ESC  Pause,ESC  暂停
+HEALTH,HULL,机体耐久
+SCRAP,SCRAP,零件
+ENERGY,RECOVERY CHARGE,回收能量
+DASH,DASH,冲刺
+KILLS,SCRAPPED,击碎数量
+PAUSE,SHIFT PAUSED,夜班暂停
+PAUSE_DESC,Take a breath. The yard can wait.,歇一口气。废料场可以等一等。
+VOLUME,MASTER VOLUME,主音量
+EFFECTS,SCREEN EFFECTS,屏幕特效
+WON,SHIFT COMPLETE,夜班完成
+LOST,UNIT OFFLINE,机体离线
+WON_DESC,Dawn secured. Excellent cleanup.,成功迎接黎明。清扫得漂亮。
+LOST_DESC,The night won this round. Rebuild and return.,这一回合黑夜赢了。整备后再来。
+TIME,TIME ON SHIFT,在岗时长
+RESULT_SCRAP,PARTS RECOVERED,回收零件
+PLAY_AGAIN,ANOTHER SHIFT,再来一班
+READY,READY FOR DEPLOYMENT,整备完毕 · 随时出勤
+FOOTER,RECOVER / REBUILD / OVERLOAD,回收 / 改装 / 过载
+PHASE,THREAT LEVEL,威胁等级
+BRUSH,ROTARY BRUSH,旋转滚刷
+SKILL_HINT,Vacuum scrap to charge your next discharge.,吸回零件积蓄能量，松开右键喷射清场。
+ZERO_COST,ORIGINAL ART + FREE RESOURCES,原创美术 + 免费资源
+QUICK_SHIFT,QUICK SWEEP  /  3 MINUTES,快速清扫  /  三分钟
+WAVE,WAVE,波次
+FINAL_WAVE,FINAL BOSS,最终首领
+LEVEL,LEVEL,等级
+LEVEL_SHORT,L,Lv.
+LOADOUT,EQUIPPED,已装备
+MODS_COUNT,MOD LEVELS,改装等级合计
+SHOP_TITLE,WAVE %d CLEARED,第 %d 波已清扫
+SHOP_SUMMARY,Floor salvage +%d  /  Shift pay +%d  /  Hull service +%d HP,地面回收 +%d  /  夜班工资 +%d  /  机体维修 +%d 耐久
+SHOP_RULE,Choose your upgrades. Combat is stopped until you deploy.,选择你的升级。出勤前，战斗与计时都会停止。
+SHOP_HINT,Tools attack automatically. Foam slows enemies and amplifies arc damage.,工具会自动攻击。泡沫减速敌人，并增强电弧伤害。
+SHOP_PURCHASED,Installed. Your next wave starts with this upgrade.,安装完成。下一波即可使用升级后的装备。
+SHOP_CANNOT_BUY,Purchase unavailable. Check your scrap and installed upgrades.,暂时无法购买，请检查零件余额与装备等级。
+SHOP_WEAPON,TOOL,工具
+SHOP_MOD,ROBOT MOD,机体改装
+SHOP_BUY,INSTALL,安装
+SHOP_NEED,NEED,需要
+SHOP_INSTALLED,INSTALLED,已安装
+SHOP_SOLD_OUT,ALL STOCK INSTALLED,库存已安装
+NEXT_WAVE,DEPLOY TO WAVE %d,进入第 %d 波
+ENTER_BOSS,FACE THE COMPACTOR,迎战压缩车
+ITEM_BRUSH,Rotary Brush,旋转滚刷
+ITEM_BRUSH_DESC,Automatic close-range sweeps. Each level increases damage and reach.,自动扫击近身敌人。每级提升伤害与攻击范围。
+ITEM_FOAM,Foam Sprayer,泡沫喷头
+ITEM_FOAM_DESC,"Lays slowing foam beneath nearby enemies. Level up for wider, stronger coverage.",自动向附近敌人铺设减速泡沫。升级扩大覆盖并增强伤害。
+ITEM_ARC,Arc Coil,电弧线圈
+ITEM_ARC_DESC,Lightning jumps between enemies. Foam-soaked targets take bonus damage.,电弧在敌人间连锁。泡沫中的目标受到额外伤害。
+ITEM_HULL,Hull Plating,加固装甲
+ITEM_HULL_DESC,+20 maximum hull per level. Installing also restores that extra hull.,每级增加20点最大耐久，安装时同时恢复新增耐久。
+ITEM_TREADS,Turbo Treads,涡轮履带
+ITEM_TREADS_DESC,+8% movement speed per level. Keep clear of closing machinery.,每级增加8%移动速度，更快穿过机械包围。
+ITEM_MAGNET,Wideband Magnet,广域磁铁
+ITEM_MAGNET_DESC,+15% vacuum reach per level. Recover scrap from farther away.,每级增加15%吸附距离，在更远处回收零件。
+ITEM_CAPACITOR,Charge Capacitor,蓄能电容
+ITEM_CAPACITOR_DESC,+20% energy capacity per level. Overcharging adds discharge damage.,每级增加20%能量容量。超过基础容量的蓄能可增加喷射伤害。
+ITEM_TORQUE,Torque Booster,扭矩增幅器
+ITEM_TORQUE_DESC,+12% damage from all tools and discharge per level.,每级增加12%全工具与喷射伤害。
+ITEM_COOLANT,Cooling Loop,冷却回路
+ITEM_COOLANT_DESC,Tool and dash cooldowns are 8% shorter per level.,每级缩短8%工具与冲刺冷却时间。
+BOSS_NAME,THE COMPACTOR,巨型压缩车
+BOSS_HUNT,TRACKING,追踪中
+BOSS_WINDUP,CHARGE WARNING,冲撞预警
+BOSS_CHARGE,RAMMING,冲撞中
+BOSS_VOLLEY,SCRAP BARRAGE,碎片弹幕
+BOSS_EXPOSED,CORE EXPOSED,核心暴露
+ITEM_SAW,Rotary Saw,旋转锯片
+ITEM_SAW_DESC,Launches a spinning blade through several enemies. Upgrades improve damage and fire rate.,自动发射穿透多名敌人的旋转锯片。升级提高伤害并加快发射。
+SHOP_RULE_SLOTS,Three tool slots. Compare upgrades and choose your build. Combat stays paused.,三个工具槽。对照升级数值，选择你的构筑；战斗保持暂停。
+SHOP_BEFORE_AFTER,BEFORE → AFTER,升级前 → 升级后
+SHOP_REFRESH,REROLL · %d SCRAP · ONCE,刷新 · %d 零件 · 限一次
+SHOP_REFRESH_USED,REROLL UNAVAILABLE,本店无法再次刷新
+SHOP_REFRESH_HELP,One paid reroll per shop. You pay only when the stock changes.,每家商店可付费刷新一次。成功更换商品后才会扣除零件。
+SHOP_REFRESHED,Stock refreshed. This shop has no rerolls left.,商品已刷新。本店刷新机会已用完。
+SHOP_REFRESH_FAILED,Check your scrap and this shop's remaining reroll.,暂时无法刷新，请检查零件余额与本店刷新机会。
+SHOP_SLOTS_FULL,ALL THREE SLOTS FILLED,三个工具槽已满
+ENTER_BOSS_ANY,FACE THE BOSS,迎战首领
+STAT_DAMAGE,Damage,伤害
+STAT_TICK_DAMAGE,Tick damage,每跳伤害
+STAT_TARGETS,Targets,目标数
+STAT_PIERCE,Pierce,穿透数
+STAT_RADIUS,Radius,半径
+STAT_CYCLE,Cycle,间隔
+STAT_HULL,Max hull,最大耐久
+STAT_SPEED,Speed,移速
+STAT_REACH,Vacuum reach,吸附距离
+STAT_CAPACITY,Capacity,容量
+STAT_COOLDOWN,Cooldown,冷却时长
+STAT_FOAM_COMBO,Foam combo,泡沫组合增伤
+STAT_TICK_RATE,Tick,伤害间隔
+STAT_DURATION,Lasts,持续
+MAP_YARD,RUSTYARD,废料回收场
+MAP_YARD_DESC,Reclaim abandoned salvage under crossfire. Work the cover and draw out the compactor.,在交叉火力中争取废料。利用掩体周旋，引出压缩车的破绽。
+MAP_FOUNDRY,CONVEYOR FOUNDRY,传送带铸造厂
+MAP_FOUNDRY_DESC,Conveyors carry machines and scrap. Read the press warnings and escape the molten lanes.,传送带推动机械与零件。留意压机预警，穿越熔渣封锁线。
+MAP_REACTOR,NEON REACTOR,霓虹反应堆
+MAP_REACTOR_DESC,Orbiting drones and live grids reshape the arena. Keep a route open before the next surge.,游走无人机与通电网格改变战场。下一次脉冲前留好退路。
+BOSS_IRON_MAW,IRON MAW,铁颚压缩车
+BOSS_FURNACE_WARDEN,FURNACE WARDEN,熔炉监工
+BOSS_ARC_REGENT,ARC REGENT,电弧摄政
+MECHANIC_YARD,Reclaim salvage caches before the machines surround you.,在机械包围前争取回收箱奖励。
+MECHANIC_FOUNDRY,Ride the conveyors. Leave marked press zones.,顺势利用传送带，及时离开压机标记区。
+MECHANIC_REACTOR,Leave marked grids before they energize.,在电网通电前离开预警区域。
+STAGE_RECLAIM,RECLAMATION,聚怪回收
+STAGE_PINCER,PINCER ATTACK,突进夹击
+STAGE_BREAKTHROUGH,BREAKTHROUGH,远程突破
+STAGE_SALVAGE,SALVAGE OPERATION,回收作业
+STAGE_SIEGE,MACHINE SIEGE,机械围攻
+STAGE_BOSS,FINAL CONFRONTATION,最终对决
+OBJECTIVE_SALVAGE,Vacuum inside the marked circle to open the salvage cache.,在标记圈内持续吸附，开启回收箱。
+BOSS_RING,ARC RING,环形弹幕
+BOSS_SWEEP,SWEEPING FIRE,扫描火力
+BOSS_ZONE,AREA COMPRESSION,区域压缩
+DAMAGE_PRESS,Industrial press,工业压机
+DAMAGE_GRID,Live grid,通电网格
+DAMAGE_MOLTEN,Molten floor,熔融地面
+DAMAGE_SCAN,Reactor scan,反应堆扫描
+DAMAGE_SHOCK,Shock field,电击力场
+DAMAGE_COMPRESSION,Compression zone,压缩区
+DAMAGE_SLAG,Slag round,熔渣弹
+DAMAGE_BOSS,Boss impact,首领撞击
+DAMAGE_CHARGER,Charging machine,突进机械
+DAMAGE_CONTACT,Machine collision,机械碰撞
+DAMAGE_BOSS_BULLET,Boss projectile,首领弹幕
+DAMAGE_PROJECTILE,Enemy projectile,敌方弹丸
+DAMAGE_UNKNOWN,Unknown impact,未知冲击
+MISSION_TITLE,CHOOSE YOUR NIGHT SHIFT,选择你的夜班
+MISSION_SUBTITLE,Three sectors. Distinct machinery. One clean exit.,三个作业区，各有危险机械。清扫完成，平安下班。
+MISSION_DEPLOY,DEPLOY TO SECTOR,前往作业区
+MISSION_HINT,Five combat stages and a sector boss. Automatic saving between waves.,五个战斗阶段与区域首领。波间自动保存，可随时在商店休息。
+MISSION_BOSS,SECTOR BOSS,区域首领
+MISSION_SELECTED,SELECTED  /  READY TO DEPLOY,已选择  /  准备出勤
+MISSION_SELECT,SELECT THIS SECTOR,选择此作业区
+GARAGE,WORKSHOP,改装工坊
+GARAGE_TITLE,AFTER-HOURS WORKSHOP,下班改装工坊
+GARAGE_TAB_SKIN,BODYWORK,机身外观
+GARAGE_TAB_SKILL,ACTIVE BLUEPRINTS,主动技能蓝图
+GARAGE_TAB_SKILL_COLOR,ENERGY PALETTE,能量配色
+COINS,COINS,金币
+GARAGE_HINT,Earn coins by completing shifts. Equipped blueprints and colors apply to your next run.,完成夜班获得金币。已装备的蓝图与配色将在下一局生效。
+GARAGE_ACTIVE,EQUIPPED,已装备
+GARAGE_EQUIP,EQUIP,装备
+GARAGE_UNLOCK,UNLOCK,解锁
+GARAGE_UNLOCKED,Unlocked and equipped for your next shift.,已解锁并装备，下一局生效。
+GARAGE_EQUIPPED,Equipped for your next shift.,已装备，下一局生效。
+GARAGE_NEED_COINS,Complete more stages to earn the remaining coins.,完成更多阶段，积累所需金币。
+GARAGE_SKIN_INDUSTRIAL,Industrial Yellow,工业黄
+GARAGE_SKIN_INDUSTRIAL_DESC,Original reclamation division bodywork. A familiar face for an unfamiliar night.,回收分部的原厂涂装。熟悉的机体，迎接未知的夜班。
+GARAGE_SKIN_ARCTIC,Arctic Service,极地勤务
+GARAGE_SKIN_ARCTIC_DESC,Cool cyan bodywork with a bright service visor. Appearance only; no stat changes.,清冷青蓝机身与明亮面罩。仅改变外观，属性保持一致。
+GARAGE_SKIN_HAZARD,Hazard Crew,危险作业组
+GARAGE_SKIN_HAZARD_DESC,Amber plating and industrial warning stripes. Appearance only; no stat changes.,琥珀装甲与工业警示条纹。仅改变外观，属性保持一致。
+GARAGE_COLOR_MINT,Reclaimer Mint,回收薄荷绿
+GARAGE_COLOR_MINT_DESC,Mint-colored active abilities. Enemy danger markings keep their own colors.,薄荷绿主动技能。敌方危险标记保留原有配色。
+GARAGE_COLOR_CYAN,Glacier Current,冰川电流
+GARAGE_COLOR_CYAN_DESC,An icy cyan palette for your active ability and energy accents.,为主动技能与能量装饰换上冰青色调。
+GARAGE_COLOR_VIOLET,Ultraviolet,紫外风暴
+GARAGE_COLOR_VIOLET_DESC,Violet energy rings and electrical trails. Danger warnings stay readable.,紫色能量环与电流轨迹，保持危险预警清晰。
+GARAGE_SKILL_PULSE,Repulsor Pulse,电磁排斥
+GARAGE_SKILL_PULSE_DESC,Instant repulsor shock. Pushes machines away and clears nearby projectiles. Reclaim scrap to recharge.,瞬发排斥冲击，击退机械并清除近身弹体。现场回收为技能充能。
+GARAGE_SKILL_SINGULARITY,Singularity Drive,黑洞压缩器
+GARAGE_SKILL_SINGULARITY_DESC,"Aim the reticle to place a gravity well. Pulls machines together, then detonates after 1.5s. Independent charge.",准星选择重力井落点，强力聚拢机械，1.5 秒后爆破。使用独立充能。
+GARAGE_SKILL_OVERDRIVE,Arc Overdrive,电弧过载
+GARAGE_SKILL_OVERDRIVE_DESC,"5s of overdrive: tools run 55% faster, movement gains 12%, your dash resets and arcs hit nearby machines.",过载 5 秒：工具运转加快 55%，移动提高 12%，重置冲刺并电击周围机械。
+CONTINUE_SAVED,CONTINUE SAVED SHIFT,继续已保存的夜班
+NO_SAVED_SHIFT,NO SAVED SHIFT,暂无已保存夜班
+MENU_PROGRESS,%d coins  /  %d blueprints and finishes owned,%d 金币  /  已拥有 %d 项蓝图与外观
+MUSIC_VOLUME,MUSIC,背景音乐
+SFX_VOLUME,SOUND EFFECTS,音效
+VACUUM_TOGGLE,TOGGLE VACUUM,切换式吸附
+VACUUM_TOGGLE_HELP,Click to start vacuuming; click again to discharge.,点击开始吸附，再次点击喷射。
+KEY_BINDINGS,KEY BINDINGS,按键设置
+KEY_MOVE_LEFT,Left,向左
+KEY_MOVE_RIGHT,Right,向右
+KEY_MOVE_UP,Up,向上
+KEY_MOVE_DOWN,Down,向下
+KEY_DASH,Dash,冲刺
+KEY_ACTIVE_SKILL,Ability,主动技能
+KEY_WAIT,Press a key. Esc cancels.,按下新按键，Esc 取消。
+KEY_CONFLICT,That key is reserved or already assigned. Try another key.,该按键已占用或保留，请使用其他按键。
+KEY_HELP,Select an action to rebind it. Escape always pauses.,点击操作修改按键。Esc 始终用于暂停。
+KEY_RESET,RESET KEYS,恢复默认按键
+TUTORIAL_REPLAY,REPLAY GUIDE NEXT SHIFT,下局重看引导
+TUTORIAL_SKIP,SKIP GUIDE,跳过引导
+TUTORIAL_MOVE,01 / MOVE\nUse %s to drive clear of incoming machines.,01 / 移动\n使用 %s 移动，避开接近的机械。
+TUTORIAL_VACUUM,02 / RECLAIM\nVacuum the glowing scrap to collect money and charge energy.,02 / 回收\n吸附发光零件，同时获得购物零件与喷射能量。
+TUTORIAL_BLAST,03 / DISCHARGE\nRelease the vacuum to fire stored energy. Your money stays safe.,03 / 喷射\n结束吸附，释放积蓄的能量；不会消耗购物零件。
+TUTORIAL_DASH,04 / DASH\nPress %s to dodge through danger.,04 / 冲刺\n按 %s 冲刺，及时躲过危险。
+ABILITY_READY,%s · %d ENERGY,%s · %d 能量
+ABILITY_WAIT,%s · %.1fs,%s · %.1f 秒
+ACTIVE_ABILITY,Active ability,主动技能
+COMBO_COUNT,RECLAIM CHAIN  %d,连续回收  %d
+ABANDON_RUN,END SHIFT / HANGAR,结束本局 / 返回机库
+CONFIRM_TITLE,LEAVE THIS SHIFT?,离开当前夜班？
+CONFIRM_ABANDON,End this run and settle completed stages? Combat progress will be lost.,结束本局并结算已完成阶段？当前战斗进度将被放弃。
+CONFIRM_REPLACE,A saved shift exists. Settle its completed stages and start a new run?,已有保存的夜班。结算其已完成阶段并开始新一局？
+CONFIRM_YES,END AND CONTINUE,结束并继续
+CANCEL,CANCEL,取消
+CHECKPOINT_SAVED,Wave saved. Purchases and rerolls are preserved.,波间进度已保存，保留购买和刷新状态。
+CHECKPOINT_INVALID,This saved shift cannot be restored. Your unlocked items are safe.,该夜班存档无法恢复。已解锁物品仍然保留。
+PROFILE_SAVE_FAILED,Could not save progress. Please retry before leaving.,进度保存失败，请在离开前重试。
+PROFILE_DAMAGED,Progress file could not be read. A new local profile is in use.,进度文件无法读取，当前使用新的本地档案。
+PROFILE_RECOVERED,Progress restored from the backup file.,已从备用文件恢复进度。
+PROFILE_INVALID,Invalid progress data. Nothing was changed.,进度数据无效，未作更改。
+RESULT_COINS,+%d COINS  /  TOTAL %d,+%d 金币  /  总计 %d
+RESULT_FIRST_CLEAR,FIRST SECTOR CLEAR BONUS INCLUDED,已包含该区域首次通关奖励
+RESULT_NEXT_UNLOCK,Next unlock: %s  /  %d more coins,下一项解锁：%s  /  还需 %d 金币
+RESULT_ALL_UNLOCKED,All workshop items unlocked. Challenge your sector records.,工坊物品已全部解锁，继续挑战区域纪录。
+RESULT_TOP_TOOL,Top contributor: %s  ·  %d damage,主要输出：%s  ·  %d 伤害
+RESULT_CAUSE,Last impact: %s,最后受击来源：%s
+RESULT_RECORD,Personal best: stage %d  /  %d scrapped,个人纪录：阶段 %d  /  击碎 %d
+RESULT_ABILITY,Active blueprint,主动技能
+RESULT_BLAST,Discharge,储能喷射
+MOVE,Move,移动
+TIP_VACUUM_TOGGLE,RMB  Toggle vacuum,右键  开始吸附
+TIP_BLAST_TOGGLE,RMB again  Discharge,再按右键  喷射
+RESULT_UNLOCK_READY,Ready in the workshop: %s,工坊已可解锁：%s
+WITHDRAWN,SHIFT ENDED EARLY,提前收班
+WITHDRAWN_DESC,You returned to the hangar. Completed stages have been settled.,已返回机库，完成的阶段已结算。
+MISSION_ROLE_PULSE,Push back nearby threats; reclaim a safe pocket.,推开近身威胁，为自己争取安全空间。
+MISSION_ROLE_OVERDRIVE,Accelerate tools and movement for an aggressive burst.,短时加速武器与移动，主动压制敌群。
+MISSION_ROLE_SINGULARITY,"Aim a gravity well, gather machines, then collapse it.",瞄准投放引力井，聚拢机械后引爆。
+MISSION_STEP_SECTOR,01 / SELECT SECTOR,01 / 选择作业区
+MISSION_STEP_LOADOUT,02 / PREPARE YOUR RIG,02 / 整备出勤
+MISSION_PREPARE,PREPARE LOADOUT →,配置装备 →
+MISSION_LOADOUT_HINT,Choose an owned blueprint. Bodywork and energy colors carry into this shift.,选择已拥有的技能蓝图。本局使用所选机身与能量配色。
+MISSION_CHANGE_SECTOR,← CHANGE SECTOR,← 更换作业区
+HANGAR_LIVE_PREVIEW,LIVE SYSTEM TEST,系统动态演示
+HANGAR_REPLAY,TEST ABILITY,试放技能
+HANGAR_LOCKED,LOCKED,未解锁
+HANGAR_OWNED,OWNED,已拥有
+HANGAR_SET_TARGET,TRACK UNLOCK,设为解锁目标
+HANGAR_TARGET,TRACKED TARGET,当前解锁目标
+HANGAR_TARGET_PROGRESS,%d / %d COINS,%d / %d 金币
+HANGAR_FREE,STARTER BLUEPRINT,初始蓝图
+HANGAR_PREVIEW_ONLY,PREVIEW ONLY · unlock to equip,仅预览 · 解锁后可装备
+SHOP_BENCH,INSTALLED RIG,当前装备
+SHOP_BRANCH_TITLE,ACTIVE BLUEPRINT · SPECIALIZE,主动蓝图 · 分支改装
+SHOP_BRANCH_CHOOSE,INSTALL BRANCH,安装分支
+SHOP_BRANCH_WAIT,Specializations arrive after stages 2 and 4.,第 2、4 阶段结束后可改装技能分支。
+SHOP_SELL,SELL · +%d,出售 · +%d
+SHOP_SELL_HELP,Sell one non-brush tool per shop to reveal a replacement offer.,每店可出售一次非基础清扫盘工具，并获得替换工具报价。
+HUD_SKILL_READY,%s · READY,%s · 就绪
+HUD_SKILL_CHARGING,CHARGING %d%%,充能 %d%%
+HUD_SKILL_ACTIVE,ACTIVE · %.1fs,释放中 · %.1f 秒
+ABILITY_NOT_READY,RECLAIM SCRAP TO CHARGE YOUR BLUEPRINT,现场回收零件，为主动技能充能
+ABILITY_ACTIVE,BLUEPRINT IS ALREADY ACTIVE,技能正在释放中
+ABILITY_CAST,SYSTEM OVERLOAD,主动系统启动
+ABILITY_BRANCH_SELECTED,Specialization installed.,技能分支已安装。
+ABILITY_BRANCH_UNAVAILABLE,Choose a specialization after stage 2 or upgrade it after stage 4.,第 2 阶段后选择分支，第 4 阶段后强化已选分支。
+TUTORIAL_ABILITY,05 / OVERLOAD\nPress %s to use your blueprint. Scrap charges it separately from discharge energy.,05 / 主动技能\n按 %s 释放技能。现场回收为技能单独充能，不消耗喷射能量。
+BRANCH_PULSE_BULWARK,CAPACITOR BULWARK,电容壁垒
+BRANCH_PULSE_BULWARK_DESC,A moving field clears nearby projectiles for 1.8s.,随身屏障持续 1.8 秒，清除附近弹体。
+BRANCH_PULSE_BULWARK_UPGRADE_DESC,Wider protection lasting 2.5s.,扩大弹体清除范围，持续时间提升至 2.5 秒。
+BRANCH_PULSE_ECHO,RESONANT SHOCK,共振冲击
+BRANCH_PULSE_ECHO_DESC,Emit an extra shockwave after the initial pulse.,初始脉冲后再次释放一次范围冲击。
+BRANCH_PULSE_ECHO_UPGRADE_DESC,"Emit two follow-up shocks, clearing incoming fire.",追加两次范围冲击，清除沿途弹体。
+BRANCH_SINGULARITY_VORTEX,GRAVITY ENGINE,重力引擎
+BRANCH_SINGULARITY_VORTEX_DESC,Stronger suction over a wider area for 2.1s.,增强牵引、扩大范围，聚拢持续 2.1 秒。
+BRANCH_SINGULARITY_VORTEX_UPGRADE_DESC,Extend the gravity field to 315 range and 2.5s.,牵引范围提升至 315，聚拢持续 2.5 秒。
+BRANCH_SINGULARITY_RUPTURE,EVENT HORIZON,事件视界
+BRANCH_SINGULARITY_RUPTURE_DESC,"A second, wider explosion follows the collapse.",坍缩后追加一次更大范围的爆炸。
+BRANCH_SINGULARITY_RUPTURE_UPGRADE_DESC,The aftershock expands to 320 range.,余震爆破范围提升至 320。
+BRANCH_OVERDRIVE_TURBINE,ARC TURBINE,电弧涡轮
+BRANCH_OVERDRIVE_TURBINE_DESC,Tools run 90% faster with additional side vents.,工具运转加快 90%，机体两侧追加电弧喷口。
+BRANCH_OVERDRIVE_TURBINE_UPGRADE_DESC,Tools run 120% faster while overdrive is active.,过载期间工具运转加快 120%。
+BRANCH_OVERDRIVE_STRIDE,ION STRIDE,离子疾行
+BRANCH_OVERDRIVE_STRIDE_DESC,Move 35% faster and leave damaging arc marks.,移动加快 35%，沿路径留下伤害电弧。
+BRANCH_OVERDRIVE_STRIDE_UPGRADE_DESC,Move 50% faster with wider arc marks.,移动加快 50%，路径电弧伤害范围扩大。
+EVOLUTION_STEEL_STORM,STEEL STORM,碎钢风暴
+EVOLUTION_STEEL_STORM_DESC,"Twin saws orbit your rig, then launch through the crowd.",双锯盘环绕机体，随后射出贯穿敌群。
+EVOLUTION_STEEL_STORM_REQUIRES,Brush L2 + Saw L2,清扫盘 Lv.2 + 废钢锯 Lv.2
+EVOLUTION_CONDUCTION_GRID,CONDUCTION GRID,导电网
+EVOLUTION_CONDUCTION_GRID_DESC,Arcs connect foam pools into damaging electrical lanes.,电弧连接泡沫区域，形成持续伤害电网。
+EVOLUTION_CONDUCTION_GRID_REQUIRES,Foam L2 + Arc L2,泡沫 Lv.2 + 电弧 Lv.2
+EVOLUTION_COMPRESSION_BLAST,COMPRESSION BLAST,压缩爆破
+EVOLUTION_COMPRESSION_BLAST_DESC,Full-energy discharge leaves a gravity pocket that collapses.,满能量喷射留下压缩区，聚怪后再次爆破。
+EVOLUTION_COMPRESSION_BLAST_REQUIRES,Capacitor L2 + Magnet L2,电容 Lv.2 + 磁场 Lv.2
+INTERACT_YARD,VACUUM THE SALVAGE CACHE · CLEAR NEARBY MACHINES,吸附废料缓存 · 震碎附近机械
+INTERACT_FOUNDRY,VACUUM THE PRESS CONSOLE · CRUSH THE CROWD,吸附压机控制台 · 压碎周围敌群
+INTERACT_REACTOR,BLAST OR USE A SKILL ON THE RELAY · DISABLE THE GRID,喷射或技能击断中继器 · 暂停电网
+COUNTER_YARD,BAIT A CHARGE THROUGH THE GOLD SCRAP BLOCK,诱导冲撞穿过金色废料块，击破装甲
+COUNTER_FOUNDRY,"VENTS OPEN: VACUUM THE VALVE TO RECHARGE AND BREAK THE CORE",排气时贴近发光阀门吸附 · 回收能量并击破核心
+COUNTER_REACTOR,DESTROY BOTH NODES · ATTACK OR VACUUM UP CLOSE TO RECHARGE,拆除双节点 · 攻击或贴近吸附拆解可回能
+BOSS_CORE_BROKEN,CORE BROKEN · UNLOAD!,核心破防 · 全力输出！
+BOSS_VENT_OPEN,VENT WINDOW · VACUUM THE VALVE,排气窗口 · 吸附阀门
+BOSS_ARMORED,KEEP FIRING · COUNTER FOR A BURST,持续攻击 · 破招后爆发
+DAMAGE_PURSUIT,pursuit marker,追猎标记
+DAMAGE_ELITE_SLAG,elite molten volley,精英熔渣轰击
+ELITE_MAGNET_HAULER,MAGNET HAULER,磁力搬运机
+ELITE_SLAG_CRAWLER,SLAG CRAWLER,熔渣爬行机
+ELITE_RELAY_SENTINEL,RELAY SENTINEL,中继哨兵
+RESULT_BLUEPRINT,Blueprint: %s · %d activations,主动技能：%s · 释放 %d 次
+RESULT_BADGE,NEW INSIGNIA: %s,获得新徽章：%s
+BADGE_YARD_CLEAR,RUSTYARD CLEARED,回收场清扫员
+BADGE_FOUNDRY_CLEAR,FOUNDRY CLEARED,铸造厂清扫员
+BADGE_REACTOR_CLEAR,REACTOR CLEARED,反应堆清扫员
+BADGE_PULSE_MASTER,REPULSOR SPECIALIST,排斥专家
+BADGE_SINGULARITY_MASTER,GRAVITY SPECIALIST,重力专家
+BADGE_OVERDRIVE_MASTER,OVERDRIVE SPECIALIST,过载专家
+PROFILE_REFUND,Overdrive is now a starter blueprint. Your 180 coins were refunded.,过载现为初始蓝图，已返还先前购买的 180 金币。
+QUICK_LOADOUT,Quick Sweep uses %s from your workshop loadout.,快速清扫使用工坊当前装备：%s。
+SHOP_BRANCH_UPGRADE,UPGRADE BRANCH,强化分支
+RESULT_EVOLUTION,Weapon evolution,武器进化
+RESULT_MECHANISM,Sector machinery,地图机关
+LAUNCH_KICKER,RECLAMATION DIVISION / NIGHT OPERATIONS,废料回收分部 / 夜间作业
+LAUNCH_OVERTIME,OVERTIME,无尽加班
+LAUNCH_OVERTIME_DESC,Endless survival. How long can your rig hold?,无尽生存。看看这台机体能撑到什么时候。
+LAUNCH_STANDARD,NIGHT SHIFT,标准夜班
+LAUNCH_STANDARD_DESC,Five stages. One sector boss. Make it home.,五个阶段，一位区域首领，平安收班。
+LAUNCH_QUICK,QUICK SWEEP,快速清扫
+LAUNCH_QUICK_DESC,3 MIN,3 分钟
+LAUNCH_ARCHIVE,COMBAT ARCHIVE,战斗档案
+LAUNCH_ACHIEVEMENTS,ACHIEVEMENTS,成就收藏
+LAUNCH_READY,CURRENT LOADOUT,当前出战配置
+LAUNCH_EDIT_HINT,Change your rig in the workshop,在改装工坊调整装备
+LAUNCH_VERSION,OVERTIME / 0.5,无尽加班 / 0.5
+LAUNCH_PROFILE,%d COINS  /  %d OWNED,%d 金币  /  已拥有 %d 项
+LAUNCH_RESUME_HINT,Resume from your last saved shop.,从最近保存的商店继续。
+LAUNCH_NO_SAVE_HINT,A shop checkpoint appears here after a stage.,完成阶段后，可在此继续商店保存点。
+ACH_FIRST_SHIFT,Clocked In,正式上岗
+ACH_FIRST_SHIFT_DESC,Complete a standard Night Shift.,完成任意标准夜班。
+ACH_YARD_OPERATOR,Yard Operator,回收场专家
+ACH_YARD_OPERATOR_DESC,Clear the Rust Yard.,通关锈铁回收场。
+ACH_FOUNDRY_OPERATOR,Heat Resistant,耐热作业员
+ACH_FOUNDRY_OPERATOR_DESC,Clear the Ember Foundry.,通关余烬铸造厂。
+ACH_REACTOR_OPERATOR,Core Keeper,核心守望者
+ACH_REACTOR_OPERATOR_DESC,Clear the Neon Reactor.,通关霓虹反应堆。
+ACH_SECTOR_SWEEP,Three-Sector Sweep,三区巡夜者
+ACH_SECTOR_SWEEP_DESC,Clear all three standard sectors.,通关全部三个标准区域。
+ACH_FLAWLESS_SHIFT,Untouchable Shift,无瑕夜班
+ACH_FLAWLESS_SHIFT_DESC,Win a full standard shift without taking damage. Healing cannot restore this record.,整局标准夜班获胜且实际受伤为零；治疗不能恢复此条件。
+ACH_BOSS_PRECISION,Precision Dismantling,精密拆解
+ACH_BOSS_PRECISION_DESC,Defeat a boss with zero damage taken during boss combat in that run.,击败首领，且本局全部首领战实际受伤为零。
+ACH_OVERTIME_3,After Hours,下班之后
+ACH_OVERTIME_3_DESC,Complete 3 rooms in one Overtime run.,单局无尽加班完成 3 个房间。
+ACH_OVERTIME_6,Into the Deep,深入长夜
+ACH_OVERTIME_6_DESC,Complete 6 rooms in one Overtime run.,单局无尽加班完成 6 个房间。
+ACH_OVERTIME_12,Prismatic Circuit,棱光回路
+ACH_OVERTIME_12_DESC,Complete 12 rooms in one Overtime run.,单局无尽加班完成 12 个房间。
+ACH_OVERTIME_24,Night Legend,长夜传奇
+ACH_OVERTIME_24_DESC,Complete 24 rooms in one Overtime run.,单局无尽加班完成 24 个房间。
+ACH_OVERTIME_BOSS,Overtime Breaker,加班破甲者
+ACH_OVERTIME_BOSS_DESC,Defeat your first Overtime boss.,击败第一个无尽首领。
+ACH_SAFE_EXTRACTION,Home Before Dawn,黎明归航
+ACH_SAFE_EXTRACTION_DESC,Extract safely after an Overtime boss.,无尽首领战后安全撤离。
+ACH_STORMFORGE,Stormforged,风暴铸造者
+ACH_STORMFORGE_DESC,"Activate Steel Storm, Conduction Grid and Compression Blast across your runs.",在任意多局中累计激活碎钢风暴、导电网与压缩爆破。
+ACH_SCRAP_COLLECTOR,Reclamation Expert,回收能手
+ACH_SCRAP_COLLECTOR_DESC,"Collect 10,000 scrap across completed runs.","已结算战斗累计回收 10,000 零件。"
+ACH_VETERAN,Machine Whisperer,机械终结者
+ACH_VETERAN_DESC,"Defeat 2,500 machines across completed runs.","已结算战斗累计击败 2,500 台机械。"
+GARAGE_SKIN_COBALT,Cobalt Warden,钴蓝守卫
+GARAGE_SKIN_AURORA,Aurora Chassis,极光机体
+GARAGE_COLOR_EMBER,Ember Glow,余烬流光
+GARAGE_COLOR_PRISM,Prism Bloom,棱镜绽放
+TITLE_SHIFTBREAKER,Shiftbreaker,夜班破局者
+TITLE_VOIDWALKER,Voidwalker,虚空行者
+TITLE_STORMFORGED,Stormforged,风暴铸造者
+TITLE_NIGHTLEGEND,Night Legend,长夜传奇
+ARCHIVE_TITLE,OPERATOR ARCHIVE,操作员档案
+ARCHIVE_HISTORY,BATTLE HISTORY,战斗历史
+ARCHIVE_ACHIEVEMENTS,ACHIEVEMENTS,成就展柜
+ARCHIVE_SUBTITLE,Every shift leaves a record. Every milestone earns its mark.,每次出勤留下记录，每个里程碑点亮奖章。
+ARCHIVE_EMPTY,No completed shifts yet. Your next run starts the record.,还没有已结算的出勤。下一次战斗将开启你的档案。
+ARCHIVE_PAGE,%d / %d,%d / %d
+ARCHIVE_PREVIOUS,PREVIOUS,上一页
+ARCHIVE_NEXT,NEXT,下一页
+ARCHIVE_RUNS,%d recorded / last 100 retained,已记录 %d 局 / 保留最近 100 局
+ARCHIVE_CLAIMED,REWARD RECEIVED,奖励已领取
+ARCHIVE_LOCKED,IN PROGRESS,进行中
+ARCHIVE_REWARD,REWARD,达成奖励
+ARCHIVE_BADGE,Collector medal,收藏奖章
+ARCHIVE_EQUIP,EQUIP REWARD,装备奖励
+ARCHIVE_EQUIPPED,EQUIPPED,已装备
+ARCHIVE_COSMETIC,Cosmetic reward · no stat bonus,外观奖励 · 无属性加成
+ARCHIVE_SELECT,Select a run to inspect its loadout and result.,选择一局，查看构筑与结果详情。
+ARCHIVE_WON,SHIFT COMPLETE,夜班完成
+ARCHIVE_EXTRACTED,SAFE EXTRACTION,安全撤离
+ARCHIVE_ABANDONED,ENDED EARLY,提前收班
+ARCHIVE_DEFEAT,ROBOT DISABLED,机体报废
+ARCHIVE_STANDARD,NIGHT SHIFT,标准夜班
+ARCHIVE_ENDLESS,OVERTIME,无尽加班
+ARCHIVE_QUICK,QUICK SWEEP,极速清扫
+ARCHIVE_DEMO,TRAINING,训练任务
+ARCHIVE_COMBAT,COMBAT TIME,战斗时间
+ARCHIVE_ROOMS,ROOMS / CYCLES,房间 / 循环
+ARCHIVE_DAMAGE,DAMAGE / HITS,受伤 / 次数
+ARCHIVE_BOSSES,BOSSES / BOSS DAMAGE,首领 / 首领战受伤
+ARCHIVE_SKILL,ACTIVE SKILL / CASTS,主动技能 / 施放
+ARCHIVE_LOADOUT,FINAL LOADOUT,结算构筑
+ARCHIVE_EVOLUTIONS,EVOLUTIONS,构筑进化
+ARCHIVE_MUTATORS,OVERTIME CONDITIONS,无尽条件
+ARCHIVE_UNKNOWN,Not tracked in legacy run,旧版本未记录
+ARCHIVE_NONE,None,无
+ARCHIVE_PROGRESS,%d / %d,%d / %d
+ARCHIVE_BEST,Best Overtime: %d rooms · %d cycles,无尽纪录：%d 房间 · %d 循环
+ARCHIVE_ACH_COUNT,%d / %d medals earned,已获得 %d / %d 枚奖章
+ARCHIVE_COIN_REWARD,+%d coins,+%d 金币
+ARCHIVE_WAVES,COMPLETED STAGES,完成阶段
+ARCHIVE_RUN_ID,Run ID,战斗编号
+ARCHIVE_DATE,Recorded at,记录时间
+ARCHIVE_LOCAL,Stored on this device · shop time is never recorded,仅保存在本机 · 不记录商店耗时
+PROFILE_REWARD_LOCKED,Earn this item through its achievement.,完成对应成就后获得此奖励。
+ARCHIVE_NEW_ACHIEVEMENTS,NEW ACHIEVEMENTS,新达成成就
+ITEM_LASER,Prism Cutter,棱光切割器
+ITEM_LASER_DESC,Charges a narrow beam that pierces aligned machines. Opaque crates stop it.,蓄力发射窄束激光，贯穿一线机械；实体货箱会挡住光束。
+ITEM_MISSILE,Seeker Pods,追猎导弹舱
+ITEM_MISSILE_DESC,Guided missiles turn toward targets and burst over an area. Walls stop their flight.,导弹追踪转向目标，命中后范围爆破；墙体会截住弹道。
+ITEM_DRONE,Orbit Drones,轨道无人机
+ITEM_DRONE_DESC,Orbiting drones mark one machine and concentrate their fire. More tiers add drones.,环绕无人机标记一台机械并集火；升阶增加无人机数量。
+ITEM_MINES,Echo Mines,回响地雷
+ITEM_MINES_DESC,Drops armed proximity mines behind the robot. Lead pursuers through the minefield.,在机体后方布下延时激活的感应雷，引诱追兵踏入雷区。
+ITEM_REPAIR,Field Repair,现场维修
+ITEM_REPAIR_DESC,Restore 35 hull. A consumable available once per Overtime shop from room 3.,恢复35点耐久。无尽加班第3房起，每家商店可购买一次。
+EVOLUTION_PRISM_RELAY,Prism Relay,棱镜接力
+EVOLUTION_PRISM_RELAY_DESC,The first laser impact forks into two off-axis electric beams.,激光首个命中点分裂出两道侧向电束。
+EVOLUTION_PRISM_RELAY_REQUIRES,Prism Cutter II + Arc Coil II,棱光切割器II + 电弧线圈II
+EVOLUTION_HUNTER_SWARM,Hunter Swarm,追猎蜂群
+EVOLUTION_HUNTER_SWARM_DESC,Drones orbit the marked enemy and lay slowing foam beneath it.,无人机围绕标记敌人压制，并在其脚下铺设减速泡沫。
+EVOLUTION_HUNTER_SWARM_REQUIRES,Orbit Drones II + Foam Sprayer II,轨道无人机II + 泡沫喷射器II
+EVOLUTION_ORDNANCE_CHAIN,Ordnance Chain,弹药连锁
+EVOLUTION_ORDNANCE_CHAIN_DESC,Missile bursts detonate armed mines; blasts chain through up to eight nearby mines.,导弹爆炸引爆已激活地雷，爆炸最多连锁八枚附近地雷。
+EVOLUTION_ORDNANCE_CHAIN_REQUIRES,Seeker Pods II + Echo Mines II,追猎导弹舱II + 回响地雷II
+BOSS_AIM_TRACK,TRACKING — CHANGE DIRECTION,追踪瞄准——准备变向
+BOSS_AIM_LOCKED,LOCKED — CLEAR THE CHARGE LANE,路线锁定——离开冲锋通道
+BOSS_REINFORCEMENTS,EDGE PORTALS — RECLAIM THEIR SCRAP,边缘增援——消灭后回收补能
+BOSS_PROJECTION_HINT,Shatter cyan projections with discharge or skills for scrap.,用喷射或技能击碎青色投影，回收零件补能。
+BOSS_ENTRY_SUPPLY,SUPPLY READY · AIM AT THE BOSS TO FOCUS FIRE,首领补给就绪 · 瞄准首领集中火力
+BOSS_BREAK_SUPPLY,ENERGY FULL · CORE EXPOSED · UNLOAD!,喷射充满 · 核心暴露 · 全力输出！
+BOSS_EXPOSED_TIMER,CORE EXPOSED · %.1fs,核心暴露 · %.1f秒
+BOSS_BATTERIES,BATTERY DRONES · DESTROY TO RECHARGE,电池无人机入场 · 击破直接补能
+BOSS_BATTERY_RECLAIMED,ENERGY RETURN,能量回流
+OT_ROUTE_TITLE,ONE MORE ROOM?,再闯一房？
+OT_ROUTE_SUBTITLE,%d rooms cleared  /  %d bosses passed  /  %d scrap in reserve,已完成 %d 房 / 通过 %d 次首领战 / 储备 %d 零件
+OT_NEXT_BOSS,NEXT: ROOM %d / SECTOR BOSS. Reinforcements drop charge resources.,下一站：第 %d 房 / 区域首领。击败援军回收零件，为技能充能。
+OT_NEXT_ROOM,NEXT: ROOM %d. Choose a run bonus and the danger you will face.,下一站：第 %d 房。选择本局增益，以及下一房要承担的危险。
+OT_MAP_ROTATES,A new sector and score await. You can also extract now.,即将切换区域与音乐；也可以在此撤离结算。
+OT_RISK,NEXT ROOM RISK,下一房风险
+OT_RISK_HUNTERS,HUNTERS / More charging flankers,追猎编队 / 更多冲锋侧翼敌人
+OT_RISK_CROSSFIRE,CROSSFIRE / Warned horizontal danger lanes,交叉封锁 / 预警后横向危险带封路
+OT_RISK_VOLATILE,VOLATILE / Enemy wrecks explode after 1s warning,不稳定残骸 / 敌人死亡处预警1秒后爆炸
+OT_RISK_ARMORED,ARMORED / Ordinary enemies gain 25% hull,装甲加固 / 普通敌人耐久增加25%
+OT_RISK_OVERCLOCK,OVERCLOCK / Enemies move 13% faster,敌军超频 / 敌人移动速度增加13%
+OT_RISK_ARTILLERY,"ARTILLERY / Predicted impact zones, 1.5s warning",定位炮击 / 预判落点，保留1.5秒闪避预警
+OT_BOON_POWER,TORQUE SURGE,扭矩增压
+OT_BOON_POWER_DESC,+10% tool damage per rank. Stacks up to five ranks this run.,每层提高10%工具伤害。本局最多叠加五层。
+OT_BOON_MAGNET,WIDE APERTURE,广域吸口
+OT_BOON_MAGNET_DESC,+8% reclaim reach per rank. Pull resources from farther away.,每层提高8%回收范围，从更远处收集零件。
+OT_BOON_CAPACITOR,DEEP RESERVE,深度储能
+OT_BOON_CAPACITOR_DESC,+10% discharge capacity per rank. Store larger scrap blasts.,每层提高10%喷射储能上限，积蓄更强的爆破。
+OT_BOON_SALVAGER,SELF-REPAIR,回收自愈
+OT_BOON_SALVAGER_DESC,Each field scrap restores 0.14 hull per rank. Works during combat.,每层使每个现场回收零件额外修复0.14耐久，仅在战斗生效。
+OT_BOON_BULWARK,CAST SHIELD,施放护盾
+OT_BOON_BULWARK_DESC,Using your skill grants a short shield that blocks one hit. More ranks extend it.,使用技能后获得短时护盾，挡住一次伤害；叠层延长护盾时间。
+OT_BOON_AFTERBURN,DASH RESIDUE,冲刺余焰
+OT_BOON_AFTERBURN_DESC,"Dashing leaves damaging slow foam. Ranks increase its radius, power and lifetime.",冲刺起点留下伤害减速泡沫，叠层扩大范围、增强伤害并延长持续时间。
+OT_BOON_CHAIN,ARC SATELLITE,电弧卫星
+OT_BOON_CHAIN_DESC,Periodic arcs strike up to three visible enemies nearby. Ranks strengthen and hasten them.,周期性电弧打击附近最多三个无遮挡敌人，叠层提高伤害和频率。
+OT_BOON_HASTE,COOLANT RUSH,冷却循环
+OT_BOON_HASTE_DESC,"-4.5% tool and dash cooldown per rank, up to five ranks.",每层减少4.5%工具与冲刺冷却，最多五层。
+OT_SUPPLY,This bonus is maxed. Take 35 hull repair and 45 scrap instead.,此增益已经满层，改为修复35耐久并补给45零件。
+OT_CHOOSE,INSTALL & ACCEPT RISK,安装增益并接受风险
+OT_SELECTED,ROUTE LOCKED,路线已锁定
+OT_DEPLOY,DEPLOY / ROOM %d,出发 / 第 %d 房
+OT_BACK_SHOP,BACK TO SUPPLIES,返回补给商店
+OT_EXTRACT,EXTRACT & BANK REWARDS,撤离并结算战利品
+OT_ROUTE_HINT,Bonuses last for this run. Choose once per room; the displayed risk applies next room. No timer here.,增益持续本局，每房选择一次。所示风险只应用于下一房；这里没有倒计时。
+OT_ROUTE_SAVED,Route chosen. Finish shopping or deploy when you are ready.,路线已选定。可以继续购物，也可以准备好后出发。
+OT_RESULT_ROOMS,%d ROOMS CLEARED,完成 %d 房
+OT_EXTRACTED,PAYDAY. RIG INTACT.,满载撤离
+OT_EXTRACTED_DESC,Expedition banked. Your archive and rewards are ready.,本次远征已结算，战斗档案与奖励已更新。
+OT_HUD_ROOM,ROOM %d · CYCLE %d,第 %d 房 · 第 %d 轮
+OT_PATTERN_SWARM,HOLD / Survive the swarm,坚守 / 撑过群袭
+OT_PATTERN_HARVEST,HARVEST / Reclaim scrap; early exit after 40s,回收 / 收集零件；40秒后可提前完成
+OT_PATTERN_BOUNTY,PURGE / Eliminate machines; early exit after 40s,歼灭 / 清除机械；40秒后可提前完成
+OT_PATTERN_RELAY,RELAY / Hold reclaim near cyan relays; 3s each,接力 / 靠近青色装置持续吸附，每个3秒
+OT_PATTERN_BOSS,BOSS / Break the sector overseer,首领 / 击败区域监管者
+OT_MISSION_TITLE,OVERTIME / CHOOSE YOUR ENTRY,无尽加班 / 选择起始区域
+OT_MISSION_HINT,One boss every three rooms. Each cycle moves to a different sector.,每三房挑战一次首领，每轮进入不同区域。
+OT_MISSION_DETAIL,4 tool slots / Room-by-room supplies / Risk & bonus choices / Extract after a boss or push deeper,四工具槽 / 每房补给 / 风险与增益选择 / 击败首领后可撤离或继续深入
+OT_ROUTE_OPEN,CHOOSE NEXT ROUTE,选择下一房路线
+DAMAGE_OVERTIME,Overtime hazard,无尽风险机关
+OT_EXTRACT_SHOP_HINT,Boss cleared. Open the route screen to extract or continue.,首领已击败。在路线页选择撤离或继续。
+SHOP_RULE_FOUR,Four tool slots. Compare your next upgrade. Combat stays paused.,四个工具槽。对照下一次升级，战斗保持暂停。
+SHOP_CONSUMABLE,CONSUMABLE,消耗品
+SHOP_HULL_FULL,HULL FULL,耐久已满
+STAT_REPAIR,Restore hull,恢复耐久
+STAT_CURRENT_HULL,Hull,耐久
+STAT_RANGE,Range,射程
+STAT_DRONES,Drones,无人机数
+STAT_PROJECTILES,Missiles,导弹数
+STAT_CHARGE_TIME,Wind-up,预充
+STAT_ARM_TIME,Arming,布设延迟
+OT_BOSS,SECTOR BOSS,区域首领
+OT_PERSONAL_BEST,Personal best: %d rooms / %d scrapped,个人纪录：%d 房 / %d 击杀
+SHOP_SLOTS_FULL_FOUR,ALL FOUR SLOTS FILLED,四个工具槽已满
+SHOP_USE,USE,使用
+SHOP_CONSUMED,USED,已使用
+OT_SHOP_TITLE,ROOM %d CLEARED,第 %d 房已清扫

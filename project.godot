@@ -1,0 +1,38 @@
+; SCRAPSTORM: NIGHT SHIFT - free portfolio demo.
+config_version=5
+
+[application]
+config/name="SCRAPSTORM: NIGHT SHIFT"
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/description="OVERTIME: endless rooms, evolving tools, sector bosses and a combat archive. Reclaim your night shift."
+config/version="0.5.1"
+config/icon="res://assets/icon.svg"
+
+[autoload]
+Settings="*res://scripts/services/settings.gd"
+SoundBank="*res://scripts/services/sound_bank.gd"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.035, 0.065, 0.09, 1)
+
+[internationalization]
+locale/translations=PackedStringArray("res://localization/strings.en.translation", "res://localization/strings.zh_CN.translation")
+locale/fallback="en"
+
+[audio]
+driver/enable_input=false
+
+[physics]
+common/physics_ticks_per_second=60

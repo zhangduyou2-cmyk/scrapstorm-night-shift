@@ -1,0 +1,15 @@
+{
+  "name": "scrapstorm-night-shift-devtools",
+  "version": "0.5.1",
+  "private": true,
+  "description": "Optional browser integration tools for the Godot game; not a game runtime dependency.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "browser:install": "playwright install chromium",
+    "smoke:release": "node tools/smoke_release.cjs",
+    "smoke:overtime": "node tools/smoke_overtime.cjs",
+    "smoke:standard": "node tools/smoke_standard.cjs",
+    "smoke:quick": "node tools/smoke_standard.cjs --quick-only"
+  },
+  "devDependencies": { "playwright": "1.58.2" }
+}

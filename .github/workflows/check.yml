@@ -1,0 +1,69 @@
+name: Windows source checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      build:
+        description: Build Windows and Web as temporary Actions artifacts
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: checks-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: windows-2022
+    timeout-minutes: 35
+    defaults:
+      run:
+        shell: pwsh
+    steps:
+      - name: Check out source
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+      - name: Verify build-tool failure handling
+        run: python -m unittest discover -s tools/tests -v
+      - name: Verify source and distribution safeguards
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Check the public source tree
+        run: python tools/check_repository.py --public-tree --json artifacts/repository-check.json
+      - name: Install checksum-pinned Godot
+        run: ./tools/setup_godot.ps1
+      - name: Import and run all isolated behavior tests
+        run: python tools/run_tests.py --label ci
+      - name: Start the source project with isolated settings
+        run: ./Play.ps1 -Smoke
+      - name: Install export templates
+        if: github.event_name == 'workflow_dispatch' && inputs.build
+        run: ./tools/setup_godot.ps1 -IncludeTemplates
+      - name: Export Windows and Web
+        if: github.event_name == 'workflow_dispatch' && inputs.build
+        run: ./tools/build.ps1 -Target All
+      - name: Upload test evidence
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: check-evidence-${{ github.run_id }}
+          path: artifacts/
+          if-no-files-found: error
+          retention-days: 14
+      - name: Upload manually requested playable exports
+        if: success() && github.event_name == 'workflow_dispatch' && inputs.build
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: scrapstorm-windows-web-${{ github.run_id }}
+          path: exports/
+          if-no-files-found: error
+          retention-days: 14

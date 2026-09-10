@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "created": "2026-09-07",
+  "source": "tools/generate_music.py",
+  "provenance": "Original AI-assisted composition and oscillator/noise synthesis by OpenAI Codex. No recordings, downloaded music or paid services.",
+  "tracks": {
+    "yard": {
+      "title": "Afterhours Salvage",
+      "bpm": 112,
+      "seed": 270901,
+      "style": "industrial breakbeat",
+      "bars": 32,
+      "section_bars": 8,
+      "sample_rate": 32000,
+      "channels": 2,
+      "duration_seconds": 68.5714375,
+      "section_names": [
+        "statement",
+        "drive",
+        "breakdown",
+        "final_lift"
+      ],
+      "layers": {
+        "bed": {
+          "file": "assets/audio/music/yard_bed.ogg",
+          "bytes": 533584,
+          "sha256": "c9325c746ee154183c780476ec822daacd485709940e2dc844acaf0f89d4d73c",
+          "frames": 2194286,
+          "peak_dbfs": -10.327,
+          "rms_dbfs": -24.085,
+          "section_rms_dbfs": [
+            -24.225,
+            -23.47,
+            -25.269,
+            -23.6
+          ],
+          "boundary_step": 0.00137,
+          "dc_offset": 1e-06,
+          "events": 344,
+          "section_event_counts": [
+            48,
+            128,
+            40,
+            128
+          ]
+        },
+        "rhythm": {
+          "file": "assets/audio/music/yard_rhythm.ogg",
+          "bytes": 686153,
+          "sha256": "7dff63d43c2b623d638795763375ed824921afb5755ca3e0c1df897c424ec155",
+          "frames": 2194286,
+          "peak_dbfs": -8.405,
+          "rms_dbfs": -23.638,
+          "section_rms_dbfs": [
+            -23.283,
+            -23.274,
+            -24.948,
+            -23.272
+          ],
+          "boundary_step": 0.00335,
+          "dc_offset": 9.02e-05,
+          "events": 620,
+          "section_event_counts": [
+            144,
+            160,
+            92,
+            224
+          ]
+        },
+        "boss": {
+          "file": "assets/audio/music/yard_boss.ogg",
+          "bytes": 548777,
+          "sha256": "a3e1fdab796a9b48db4255cf50eabd8d11058502784a94825ec2a5e5348d72d5",
+          "frames": 2194286,
+          "peak_dbfs": -6.207,
+          "rms_dbfs": -26.252,
+          "section_rms_dbfs": [
+            -27.398,
+            -25.718,
+            -29.791,
+            -24.056
+          ],
+          "boundary_step": 0.006082,
+          "dc_offset": 1.68e-05,
+          "events": 488,
+          "section_event_counts": [
+            122,
+            122,
+            122,
+            122
+          ]
+        }
+      },
+      "combined_peak_dbfs": -2.158,
+      "measurement_note": "RMS dBFS is signal energy, not perceptual LUFS or a human listening approval."
+    },
+    "foundry": {
+      "title": "Pressure Circuit",
+      "bpm": 128,
+      "seed": 270902,
+      "style": "mechanical techno",
+      "bars": 32,
+      "section_bars": 8,
+      "sample_rate": 32000,
+      "channels": 2,
+      "duration_seconds": 60.0,
+      "section_names": [
+        "statement",
+        "drive",
+        "breakdown",
+        "final_lift"
+      ],
+      "layers": {
+        "bed": {
+          "file": "assets/audio/music/foundry_bed.ogg",
+          "bytes": 500787,
+          "sha256": "e449853fcf7eeb585ee8809b5693829ec1ea1f1669e3f4b1a3fcaa92853d9ca5",
+          "frames": 1920000,
+          "peak_dbfs": -12.417,
+          "rms_dbfs": -24.516,
+          "section_rms_dbfs": [
+            -24.642,
+            -24.026,
+            -25.499,
+            -24.058
+          ],
+          "boundary_step": 0.004309,
+          "dc_offset": -1e-07,
+          "events": 344,
+          "section_event_counts": [
+            48,
+            128,
+            40,
+            128
+          ]
+        },
+        "rhythm": {
+          "file": "assets/audio/music/foundry_rhythm.ogg",
+          "bytes": 610153,
+          "sha256": "61afeb99cacb17e483be8a4bf4d5962a7b18651ae13af2480956ceb83849244a",
+          "frames": 1920000,
+          "peak_dbfs": -6.975,
+          "rms_dbfs": -22.918,
+          "section_rms_dbfs": [
+            -22.575,
+            -22.568,
+            -24.187,
+            -22.556
+          ],
+          "boundary_step": 0.003391,
+          "dc_offset": 7.64e-05,
+          "events": 666,
+          "section_event_counts": [
+            156,
+            172,
+            102,
+            236
+          ]
+        },
+        "boss": {
+          "file": "assets/audio/music/foundry_boss.ogg",
+          "bytes": 527624,
+          "sha256": "598d8059f65c18433a51a95193e233623ec96f9c427371c6895909df805d991a",
+          "frames": 1920000,
+          "peak_dbfs": -6.252,
+          "rms_dbfs": -25.858,
+          "section_rms_dbfs": [
+            -27.009,
+            -25.325,
+            -29.411,
+            -23.654
+          ],
+          "boundary_step": 0.012554,
+          "dc_offset": 4.9e-06,
+          "events": 488,
+          "section_event_counts": [
+            122,
+            122,
+            122,
+            122
+          ]
+        }
+      },
+      "combined_peak_dbfs": -2.158,
+      "measurement_note": "RMS dBFS is signal energy, not perceptual LUFS or a human listening approval."
+    },
+    "reactor": {
+      "title": "Neon Induction",
+      "bpm": 104,
+      "seed": 270903,
+      "style": "synthwave electro",
+      "bars": 32,
+      "section_bars": 8,
+      "sample_rate": 32000,
+      "channels": 2,
+      "duration_seconds": 73.84615625,
+      "section_names": [
+        "statement",
+        "drive",
+        "breakdown",
+        "final_lift"
+      ],
+      "layers": {
+        "bed": {
+          "file": "assets/audio/music/reactor_bed.ogg",
+          "bytes": 561947,
+          "sha256": "d7db7dfcf65ab033640fcea144089f5918179b81e8eabab8f24678adb87bf047",
+          "frames": 2363077,
+          "peak_dbfs": -10.842,
+          "rms_dbfs": -22.55,
+          "section_rms_dbfs": [
+            -22.552,
+            -22.277,
+            -23.083,
+            -22.335
+          ],
+          "boundary_step": 0.008119,
+          "dc_offset": -1e-07,
+          "events": 472,
+          "section_event_counts": [
+            112,
+            128,
+            104,
+            128
+          ]
+        },
+        "rhythm": {
+          "file": "assets/audio/music/reactor_rhythm.ogg",
+          "bytes": 700567,
+          "sha256": "d3254008f56a8846410649b908faae30088a409e1deb750f681afb2855148ab0",
+          "frames": 2363077,
+          "peak_dbfs": -8.616,
+          "rms_dbfs": -23.52,
+          "section_rms_dbfs": [
+            -23.175,
+            -23.161,
+            -24.802,
+            -23.159
+          ],
+          "boundary_step": 0.004282,
+          "dc_offset": 6.85e-05,
+          "events": 694,
+          "section_event_counts": [
+            164,
+            180,
+            106,
+            244
+          ]
+        },
+        "boss": {
+          "file": "assets/audio/music/reactor_boss.ogg",
+          "bytes": 566223,
+          "sha256": "62a84a20748519ddfb19bd92fabb87cb04d6195535277ff48bd6170811388791",
+          "frames": 2363077,
+          "peak_dbfs": -7.398,
+          "rms_dbfs": -27.418,
+          "section_rms_dbfs": [
+            -28.565,
+            -26.884,
+            -30.963,
+            -25.22
+          ],
+          "boundary_step": 0.00087,
+          "dc_offset": -1.99e-05,
+          "events": 488,
+          "section_event_counts": [
+            122,
+            122,
+            122,
+            122
+          ]
+        }
+      },
+      "combined_peak_dbfs": -2.158,
+      "measurement_note": "RMS dBFS is signal energy, not perceptual LUFS or a human listening approval."
+    }
+  }
+}
